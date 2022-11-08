@@ -1,6 +1,6 @@
 - Hi, I’m @msamim10
 - I’m interested in Python, Java, and C++.
-- I’m currently learning Java and a full-time university student.
+- I’m currently learning Java as full-time university student.
 - I'm seeking an internship as a Software Engineer.
 - I’m also looking to collaborate on any project regarding Python and Java.
 
